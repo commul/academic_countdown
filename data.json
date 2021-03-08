@@ -1,5 +1,12 @@
 [
 	{
+        	"venue": "NLP4CALL",
+		"location": "31 May 2021 (online)",
+        	"area" : "LCI, LTI, LT",
+        	"link" : "https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2021",
+        	"deadline" : "March 18, 2021 23:59 GMT+1"
+    	},
+	{
 		"venue": "CLARIN Annual Conference",
 		"location": "27-29 September 2021 in Madrid, Spain (or online)",
 		"area": "DH, LT",
