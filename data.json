@@ -1,5 +1,12 @@
 [
 	{
+        	"venue": "HIP",
+		"location": "5-6 September 2021",
+        	"area" : "LT, DH",
+        	"link" : "https://blog.sbb.berlin/hip2021/#info",
+        	"deadline" : "May 17, 2021 23:59 GMT+1"
+    	},
+	{
         	"venue": "NLP4CALL",
 		"location": "31 May 2021 (online)",
         	"area" : "LCI, LTI, LT",
